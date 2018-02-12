@@ -8,7 +8,7 @@ Description will go here
 Stuff will go here
 
 ## User Stories (Planning)
-1. As a user, I can log in via (TBD).
+1. As a user, I can log in with an email and password.
 2. As a user, I can add/delete to-do categories to fit my needs.
 3. As a user, I can add tasks and subtasks to my to-do list(s).
 4. As a user, I can set priorities for my tasks and subtasks.
@@ -25,7 +25,7 @@ Stuff will go here
 Express, Node.js
 JavaScript
 HTML/CSS, Handlebars
-...
+Passport.js (user authentication)
 
 ## Instructions...
 ...
